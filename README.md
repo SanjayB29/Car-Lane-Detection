@@ -1,3 +1,4 @@
+
 # Car Lane Detection
 
 ## Overview
@@ -33,15 +34,13 @@ For a complete list of requirements, please refer to the `requirements.txt` file
 To set up the project environment, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/SanjayB29/Car-Lane-Detection.git
-
-markdown
-Copy code
+   ```
+   git clone https://github.com/SanjayB29/Car-Lane-Detection.git
+   ```
 2. Install the required dependencies:
-pip install -r requirements.txt
-
-vbnet
-Copy code
+   ```
+   pip install -r requirements.txt
+   ```
 3. Follow the instructions in the Jupyter Notebook (`CarLaneDetection.ipynb`) to download the dataset and run the detection model.
 
 ## Contributing
